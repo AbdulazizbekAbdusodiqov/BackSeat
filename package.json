@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "expres": "^0.0.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "registrationhtmlcssjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
